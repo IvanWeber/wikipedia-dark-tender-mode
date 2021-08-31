@@ -1,0 +1,16 @@
+{
+   "manifest_version": 2,
+   "name": "Wikipedia Dark Mode",
+   "version": "1.0",
+   "description": "Тёмная тема для Википедии",
+   "icons": {
+       "128": "128.png"
+   },
+   "content_scripts": [
+       {
+           "matches": [ "https://ru.wikipedia.org/*", "https://en.wikipedia.org/*" ],
+           "js": [ "app.js" ],
+		   "css": ["styles.css"]
+       }
+   ]
+}
