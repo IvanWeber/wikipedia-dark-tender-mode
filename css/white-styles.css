@@ -1,0 +1,67 @@
+.white-wiki a {
+	color: #0645ad!important;
+}
+
+.white-wiki a:visited {
+	color: #551a8b !important;
+}
+
+.white-wiki .vector-menu-content a {
+	background-color: initial !important;
+}
+
+.white-wiki.mediawiki {
+	background-color:  #f6f6f6 !important;
+}
+
+.white-wiki #content {
+	color: #202122 !important; 
+	background-color:  #ffffff;
+}
+
+.white-wiki #mw-panel {
+	background-color:  initial;
+}
+
+.white-wiki #mw-head {
+	background-color:  initial;
+}
+
+.white-wiki .infobox {
+	background-color:  initial !important;
+}
+
+.white-wiki .infobox th {
+	background-color:  initial !important;
+}
+
+.white-wiki .infobox td table>tbody {
+	background-color:  initial !important;
+}
+
+.white-wiki #toc {
+	background-color:  initial;
+}
+
+.white-wiki blockquote {
+	background-color:  initial !important;
+}
+
+.white-wiki .thumbinner {
+	background-color:  initial !important;
+}
+
+.white-wiki .mwe-popups-container {
+	background-color:  initial !important;
+}
+
+.white-wiki .mwe-popups-container:after {
+	display:  initial !important;
+}
+
+
+/*problem here*/
+.white-wiki .mwe-popups-extract[dir='ltr']:after {
+	background-image:  initial !important;
+}
+/*problem here*/

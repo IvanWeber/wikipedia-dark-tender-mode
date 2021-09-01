@@ -6,11 +6,23 @@
    "icons": {
        "128": "128.png"
    },
+   "browser_action": {
+        "default_popup": "popup.html"
+   },
    "content_scripts": [
        {
            "matches": [ "https://ru.wikipedia.org/*", "https://en.wikipedia.org/*" ],
-           "js": [ "app.js" ],
-		   "css": ["styles.css"]
+           "js": [ "app.js"],
+           "css": ["css/styles.css", "css/white-styles.css"]
        }
-   ]
+   ],
+   "web_accessible_resources": [
+    "css/styles.css",
+    "css/white-styles.css"
+    ],
+   "permissions": [
+        "tabs",
+        "storage",
+        "activeTab"
+    ]
 }
