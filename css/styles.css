@@ -76,3 +76,7 @@ blockquote {
 	background-image: none !important;
 }
 /*problem here*/
+
+.catlinks {
+	background-color: #4a4a4a !important;
+}

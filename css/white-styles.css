@@ -74,3 +74,7 @@
 	background-image:  initial !important;
 }
 /*problem here*/
+
+.white-wiki .catlinks {
+	background-color: #f8f9fa !important;
+}
