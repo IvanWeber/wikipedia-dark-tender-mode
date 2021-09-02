@@ -27,6 +27,13 @@ a:visited {
 	background-color: #333333;
 }
 
+
+/*tables*/
+
+table.wide th {
+	background-color: #4c4c4c !important;
+}
+
 .infobox {
 	background-color: #333333 !important;
 }
@@ -35,9 +42,13 @@ a:visited {
 	background-color: #4c4c4c !important;
 }
 
+
 .infobox td table>tbody {
-	background-color: #4x4x4x !important;
+	background-color: #4c4c4c !important;
 }
+
+
+
 
 #toc {
 	background-color: #333333;

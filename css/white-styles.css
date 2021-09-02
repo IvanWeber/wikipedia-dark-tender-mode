@@ -27,6 +27,12 @@
 	background-color:  initial;
 }
 
+/*tables*/
+
+.white-wiki table.wide th {
+	background-color: #eaf3ff !important;
+}
+
 .white-wiki .infobox {
 	background-color:  initial !important;
 }
@@ -35,9 +41,12 @@
 	background-color:  initial !important;
 }
 
+
 .white-wiki .infobox td table>tbody {
 	background-color:  initial !important;
 }
+
+
 
 .white-wiki #toc {
 	background-color:  initial;
