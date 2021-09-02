@@ -1,7 +1,7 @@
 {
    "manifest_version": 2,
-   "name": "Wikipedia Dark Mode",
-   "version": "1.0",
+   "name": "Wikipedia Dark Tender Mode",
+   "version": "0.1",
    "description": "Тёмная тема для Википедии",
    "icons": {
        "128": "128.png"
