@@ -4,7 +4,7 @@
    "version": "0.1",
    "description": "Тёмная тема для Википедии",
    "icons": {
-       "128": "128.png"
+       "128": "img/128.png"
    },
    "browser_action": {
         "default_popup": "popup.html"
@@ -12,7 +12,7 @@
    "content_scripts": [
        {
            "matches": [ "https://ru.wikipedia.org/*", "https://en.wikipedia.org/*" ],
-           "js": [ "app.js"],
+           "js": [ "js/app.js"],
            "css": ["css/styles.css", "css/white-styles.css"]
        }
    ],
