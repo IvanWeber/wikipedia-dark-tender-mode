@@ -110,7 +110,7 @@
 /*main page windows*/
 
 .white-wiki .main-box {
-	background-color: #ffffff;
+	background-color: #ffffff !important;
 }
 
 /*table titles styling*/
