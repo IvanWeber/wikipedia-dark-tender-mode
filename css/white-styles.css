@@ -95,3 +95,9 @@
 .white-wiki .main-box {
 	background-color: #ffffff;
 }
+
+/*table titles styling*/
+
+.white-wiki  table.standard tbody tr th {
+	background-color: #eaf3ff !important;
+}

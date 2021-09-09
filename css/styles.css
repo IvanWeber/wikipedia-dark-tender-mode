@@ -1,98 +1,98 @@
 a {
-	color: #7ca6ebc9!important;
+  color: #7ca6ebc9 !important;
 }
 
 a:visited {
-	color: #d8bc71 !important;
+  color: #d8bc71 !important;
 }
 
 .vector-menu-content a {
-	background-color: #4c4c4c !important;
+  background-color: #4c4c4c !important;
 }
 
 .mediawiki {
-	background-color: #333333;
+  background-color: #333333;
 }
 
 #content {
-	color: #e6e6e6 !important; 
-	background-color: #333333;
+  color: #e6e6e6 !important;
+  background-color: #333333;
 }
 
 #mw-panel {
-	background-color: #333333;
+  background-color: #333333;
 }
 
 #mw-head {
-	background-color: #333333;
+  background-color: #333333;
 }
-
 
 /*tables*/
 
 table.wide th {
-	background-color: #4c4c4c !important;
+  background-color: #4c4c4c !important;
 }
 
 .infobox {
-	background-color: #333333 !important;
+  background-color: #333333 !important;
 }
 
 .infobox th {
-	background-color: #4c4c4c !important;
+  background-color: #4c4c4c !important;
 }
 
-
-.infobox td table>tbody {
-	background-color: #4c4c4c !important;
+.infobox td table > tbody {
+  background-color: #4c4c4c !important;
 }
-
-
-
 
 #toc {
-	background-color: #333333;
+  background-color: #333333;
 }
 
 blockquote {
-	background-color: #4c4c4c !important;
+  background-color: #4c4c4c !important;
 }
 
 .thumbinner {
-	background-color: #4c4c4c !important;
+  background-color: #4c4c4c !important;
 }
 
 .mwe-popups-container {
-	background-color: #4a4a4a !important;
+  background-color: #4a4a4a !important;
 }
 
 .mwe-popups-container:after {
-	display: none !important;
+  display: none !important;
 }
-
 
 /*problem here*/
 .mwe-popups-extract[dir='ltr']:after {
-	background-image: none !important;
+  background-image: none !important;
 }
 /*problem here*/
 
 .catlinks {
-	background-color: #4a4a4a !important;
+  background-color: #4a4a4a !important;
 }
 
 .mw-customtoggle {
-	background-color: #4a4a4a !important;
+  background-color: #4a4a4a !important;
 }
 
 /*info-billet*/
 
 .ambox {
-	background-color: #4a4a4a !important;
+  background-color: #4a4a4a !important;
 }
 
 /*main page windows*/
 
 .main-box {
-	background-color: #333333 !important;
+  background-color: #333333 !important;
+}
+
+/*table titles styling*/
+
+table.standard tbody tr th {
+  background-color: #4a4a4a !important;
 }
