@@ -89,3 +89,9 @@
 .white-wiki .ambox {
 	background-color: #fbfbfb !important;
 }
+
+/*main page windows*/
+
+.white-wiki .main-box {
+	background-color: #ffffff;
+}
