@@ -1,13 +1,26 @@
 a {
   color: #7ca6ebc9 !important;
+	background-color: transparent !important;
 }
 
 a:visited {
   color: #d8bc71 !important;
 }
 
-.vector-menu-content a {
+#p-views .vector-menu-content a {
   background-color: #4c4c4c !important;
+}
+
+#p-views .vector-menu-content li.selected a {
+  background-color: #666565 !important;
+}
+
+#p-namespaces .vector-menu-content a {
+  background-color: #4c4c4c !important;
+}
+
+#p-namespaces .vector-menu-content li.selected a {
+  background-color: #666565 !important;
 }
 
 .mediawiki {

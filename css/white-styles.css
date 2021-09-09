@@ -6,9 +6,26 @@
 	color: #551a8b !important;
 }
 
-.white-wiki .vector-menu-content a {
-	background-color: initial !important;
+/*top billets*/
+
+.white-wiki #p-views  .vector-menu-content a {
+	background-image: linear-gradient(to top,#77c1f6 0,#e8f2f8 1px,#ffffff 100%) !important;
+  background-color: transparent !important;
 }
+
+.white-wiki #p-views .vector-menu-content li.selected a {
+  background-color: #ffffff !important;
+}
+
+.white-wiki #p-namespaces .vector-menu-content a {
+	background-image: linear-gradient(to top,#77c1f6 0,#e8f2f8 1px,#ffffff 100%) !important;
+  background-color: transparent !important;
+}
+
+#p-namespaces .vector-menu-content li.selected a {
+  background-color: #ffffff !important;
+}
+
 
 .white-wiki.mediawiki {
 	background-color:  #f6f6f6 !important;
