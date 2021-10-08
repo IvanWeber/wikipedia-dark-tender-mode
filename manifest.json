@@ -11,7 +11,7 @@
    },
    "content_scripts": [
        {
-           "matches": [ "https://ru.wikipedia.org/*", "https://en.wikipedia.org/*" ],
+           "matches": [ "https://ru.wikipedia.org/*", "https://en.wikipedia.org/*", "https://ru.wiktionary.org/" ],
            "js": [ "js/app.js"],
            "css": ["css/styles.css", "css/white-styles.css"]
        }
