@@ -22,7 +22,7 @@
   background-color: transparent !important;
 }
 
-.white-wiki #p-namespaces .vector-menu-content li.selected a {
+#p-namespaces .vector-menu-content li.selected a {
   background-color: #ffffff !important;
 }
 
@@ -115,6 +115,29 @@
 
 /*table titles styling*/
 
-.white-wiki  table.standard tbody tr th {
+.white-wiki table.standard tbody tr th {
 	background-color: #eaf3ff !important;
+}
+
+
+
+/*bug?*/
+.white-wiki .ts-Врезка {
+	background: #f8f9fa!important;
+}
+  
+/* .ts-navbox-plaintitle {
+	background-color: #838383!important;
+} */
+  
+.white-wiki .navbox {
+	color: inherit!important;
+}
+  
+.white-wiki table tbody tr td {
+	background-color: inherit!important;
+}
+  
+.white-wiki table {
+	background-color: inherit!important;
 }

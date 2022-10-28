@@ -109,3 +109,27 @@ blockquote {
 table.standard tbody tr th {
   background-color: #4a4a4a !important;
 }
+
+.tright {
+  background-color: rgb(56 55 55)!important;
+}
+
+.ts-Врезка {
+  background-color: rgb(56 55 55)!important;
+}
+
+.ts-navbox-plaintitle {
+  background-color: #838383!important;
+}
+
+.navbox {
+  color: #959595!important;
+}
+
+table tbody tr td {
+  background-color: #626262!important;
+}
+
+table {
+  background-color: #181818!important;
+}
